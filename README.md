@@ -16,10 +16,10 @@ Zhihao Shi, Xiaohong Liu, Kangdi Shi, Linhui Dai, Jun Chen
 
 ## Quick Start
 ### Dataset
-viemo_septuplet[http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip] is used as our training and testing dataset. Please download it and unzip it somewhere on your device. Then change the training and testing directory in ```./configs/config.py```.
+[viemo_septuplet](http://data.csail.mit.edu/tofu/dataset/vimeo_septuplet.zip) is used as our training and testing dataset. Please download and unzip it somewhere on your device. Then change the training and testing directory in ```./configs/config.py```.
 
 ### testing
-We have also released the model weight in ```./modeldict/```, you can directly use it to do the evaluation.
+We have released the model weight in ```./modeldict/```, you can directly use it to do the evaluation.
 Using the command:
 ```bash
 $ python3 eval.py
