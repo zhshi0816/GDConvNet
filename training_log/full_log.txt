@@ -1,0 +1,15 @@
+polynomial interpolation
+Date: 2020-06-16 13:28:21s, Time_Cost: 15309s, Epoch: [1/14], Train_PSNR:34.17, Val_PSNR:34.46, Val_SSIM:0.9455
+Date: 2020-06-16 20:01:48s, Time_Cost: 15044s, Epoch: [2/14], Train_PSNR:35.14, Val_PSNR:34.46, Val_SSIM:0.9459
+Date: 2020-06-17 00:18:42s, Time_Cost: 15414s, Epoch: [3/14], Train_PSNR:35.25, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-17 05:12:55s, Time_Cost: 64634s, Epoch: [4/14], Train_PSNR:35.28, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-17 09:18:47s, Time_Cost: 14752s, Epoch: [5/14], Train_PSNR:35.69, Val_PSNR:35.05, Val_SSIM:0.9514
+Date: 2020-06-17 17:05:21s, Time_Cost: 15013s, Epoch: [6/14], Train_PSNR:35.77, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-17 21:21:33s, Time_Cost: 15372s, Epoch: [7/14], Train_PSNR:35.80, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-18 01:57:50s, Time_Cost: 60949s, Epoch: [8/14], Train_PSNR:35.84, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-18 06:03:47s, Time_Cost: 14757s, Epoch: [9/14], Train_PSNR:36.06, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-18 09:57:22s, Time_Cost: 14015s, Epoch: [10/14], Train_PSNR:36.10, Val_PSNR:35.40, Val_SSIM:0.9546
+Date: 2020-06-18 13:53:16s, Time_Cost: 14154s, Epoch: [11/14], Train_PSNR:36.27, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-18 18:36:20s, Time_Cost: 62471s, Epoch: [12/14], Train_PSNR:36.30, Val_PSNR:35.57, Val_SSIM:0.9580
+Date: 2020-06-18 22:54:03s, Time_Cost: 15463s, Epoch: [13/14], Train_PSNR:36.32, Val_PSNR:0.00, Val_SSIM:0.0000
+Date: 2020-06-19 03:07:50s, Time_Cost: 15227s, Epoch: [14/14], Train_PSNR:36.32, Val_PSNR:35.58, Val_SSIM:0.9580
