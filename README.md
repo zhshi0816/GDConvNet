@@ -5,7 +5,7 @@ This repo contains the official training and testing codes for our paper:
 
 Zhihao Shi, Xiaohong Liu, Kangdi Shi, Linhui Dai, Jun Chen
 
-[[Paper]()] 
+[[Paper](https://arxiv.org/abs/2008.10680)] 
 
 ## Prerequisites
 - Python == 3.7.6 
